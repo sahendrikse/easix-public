@@ -4,7 +4,7 @@ Public repository for EASIX, an app in development which aims to provide a robus
 
 ## Current Status
 
-In the project directory, you can run:
+26/02 -- Pre-development stage. Currently hashing out psuedocode and initial prototyping.
 
 ### `npm start`
 
