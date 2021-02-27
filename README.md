@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# EASIX
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Public repository for EASIX, an app in development which aims to provide a robust, lightweight and modern solution for creating Structured Threat Information Expression (STIX) 2.1 models.
 
-## Available Scripts
+## Current Status
 
 In the project directory, you can run:
 
